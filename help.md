@@ -5,3 +5,6 @@
 
 
 on window: gradlew.bat build
+
+
+gradle init: groovy or kotlin project
